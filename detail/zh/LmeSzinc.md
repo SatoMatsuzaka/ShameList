@@ -10,4 +10,8 @@ Github Issue: <https://github.com/LmeSzinc/AzurLaneAutoScript/issues/1279>
 
 存档：
 
+![Github Issue](/img/LmeSzinc.AzurLaneAutoScript.issues.1279.jpg)
+
+QQ群：
+
 ![QQ chat record](/img/1707236221479.jpeg)

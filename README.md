@@ -2,7 +2,7 @@
 Those who have no open source ethos or ethics
 ## H
 ### [HisAtri](https://github.com/HisAtri)
-[Click here for details](/detail/zh/LmeSzinc.md)
+[Click here for details](/detail/zh/HisAtri.md)
 
 ## L
 ### [LmeSzinc](https://github.com/LmeSzinc)

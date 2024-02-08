@@ -10,3 +10,4 @@ Those who have no open source ethos or ethics
 
 ## T
 ### [tsxcw](https://github.com/tsxcw)
+[Click here for details](/detail/zh/tsxcw.md)

@@ -1,5 +1,7 @@
 # ShameList
 Those who have no open source ethos or ethics
+## G
+### [gaogaotiantian](https://github.com/gaogaotiantian)
 ## H
 ### [HisAtri](https://github.com/HisAtri)
 [Click here for details](/detail/zh/HisAtri.md)
